@@ -1,0 +1,7 @@
+1	bathroom
+1	bedroom
+1	corridor
+1	dining_room
+1	kitchen
+1	living_room
+1	office

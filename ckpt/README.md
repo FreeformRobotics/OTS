@@ -1,0 +1,1 @@
+Put the pre-trained segmentation model and classification model in this folder.

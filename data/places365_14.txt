@@ -1,0 +1,14 @@
+1	balcony-interior
+1	bathroom
+1	bedroom
+1	closet
+1	dining_room
+1	garage-indoor
+1	home_office
+1	home_theater
+1	kitchen
+1	laundromat
+1	living_room
+1	playroom
+1	staircase
+1	wet_bar
