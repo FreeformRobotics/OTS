@@ -2,7 +2,7 @@
 
 This repository contains the source code (PyTorch) for our paper:
 
-**Object-to-Scene: Learning to Transfer Object Knowledge to Indoor Scene Recognition**
+[**Object-to-Scene: Learning to Transfer Object Knowledge to Indoor Scene Recognition**](https://arxiv.org/abs/2108.00399)
 
 ![Figure](figures/Framework.png)
 
